@@ -1,4 +1,5 @@
-<img alt="Logo">(graphics/logo-cropped.png)
+![Logo](graphics/logo-cropped.png)
+
 # GameFramework
 > A WIP framework for writing Bukkit minigame plugins in a single class file.
 
